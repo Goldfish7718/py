@@ -1,0 +1,1 @@
+This is a Node.js powered comment scraper. To start the server type `npm start` in the terminal. It uses the Google API client library and python to scrap the comments. Python-shell library is used to run python scripts in the background.
